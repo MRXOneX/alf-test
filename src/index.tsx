@@ -4,6 +4,7 @@ import App from './App';
 // STYLES
 import './styles/App.scss'
 import './styles/Card.scss'
+import './styles/Search.scss'
 
 
 ReactDOM.render(

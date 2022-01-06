@@ -1,0 +1,19 @@
+.wrapperSearch {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.search {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+
+    background-color: whitesmoke;
+    border-radius: 10px;
+    input {
+        padding: 5px 10px;
+        outline: none;
+        background: none;
+        border: none;
+    }
+}
