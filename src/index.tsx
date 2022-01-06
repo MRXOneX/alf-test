@@ -1,7 +1,10 @@
 import ReactDOM from 'react-dom';
 import App from './App';
-// Common styles
-import './index.css';
+
+// STYLES
+import './styles/App.scss'
+import './styles/Card.scss'
+
 
 ReactDOM.render(
     <App />,

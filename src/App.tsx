@@ -1,8 +1,10 @@
+// COMPONENTS
+import { Card } from './components'
 
 function App() {
   return (
-    <div className="App">
-     
+    <div className="wrapper">
+      <Card />
     </div>
   );
 }
